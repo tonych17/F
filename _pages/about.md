@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <b>P</b>robabilistic <b>G</b>raphical <b>M</b>odels
-description: 10-708 • Spring 2019 • Carnegie Mellon University
+title: <b>F</b>inancial <b>I</b>nvestments
+description: 10-708 • Fall 2022 • Ocean University of China
 logo: cmu-logo.png
 news: true
 ---
@@ -13,11 +13,7 @@ This graduate-level course will provide you with a strong foundation for both ap
 
 ***
 
-- **Time:** Monday/Wednesday 12:00-1:20 pm
-- **Location:** [Posner Hall 152](https://www.google.com/maps/place/Posner+Hall/@40.4424422,-79.9448675){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}
-- **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}.
-- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *10708-instructor@cs.cmu.edu*.
+- **Time:** Wednesday/Friday 12:00-1:20 pm
+- **Location:** 教学区
 
 ***
